@@ -1,7 +1,7 @@
 export async function render() {
-    console.log('i am from develop')
-    return 111;
+    console.log('i am from playMerge')
+    return 444;
 }
-export async function develop() {
-    return 222;
+export async function merge() {
+    return 333;
 }
